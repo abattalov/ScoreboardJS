@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.homeSquare {
+    background: #080001;
+    font-size: 120px;
+    font-family: Cursed Timer ULiL Regular;
+    color: #F94F6D;
+    text-align: center;
+    
+}
+
+.guestSquare{
+    background: #080001;
+    font-size: 120px;
+    font-family: Cursed Timer ULiL Regular;
+    color: #F94F6D;
+    text-align: center;
+}
+
+.addButton {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    color: #9AABD8;
+    font-family: Cursed Timer ULiL Regular;
+}
+
+#newGameButton{
+    display: flex;
+    justify-content: center;
+}
+.resetButton{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    color: #9AABD8;
+    font-family: Cursed Timer ULiL Regular;
+}
